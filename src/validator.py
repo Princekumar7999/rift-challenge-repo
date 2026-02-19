@@ -1,2 +1,2 @@
-def validate(data)
+def validate(data):
     return True
